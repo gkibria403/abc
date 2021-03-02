@@ -5,3 +5,5 @@ Added another line in the remote repo
 Added thin line in the local repo
 This is a local change
 This is a remote change
+
+Local Change following option 2
